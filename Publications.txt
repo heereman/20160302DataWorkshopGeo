@@ -1,0 +1,5 @@
+Heeremans, M., Larsen, B.T. and Stel, H. (1996). Paleostress reconstructions from kinematic indicators in the Oslo Graben, southern Norway: new constraints on the mode of rifting. In: Cloetingh, S., Ben-Avraham, Z., Sassi, W., Horvath, F. (Editors), 1996. Dynamics of basin formation and inversion. Tectonophysics, 266: 55-79 + corrections: Tectonophysics 277, 339-344.
+Software: http://www.damiendelvaux.be/Tensor/tensor-index.html
+
+Sippel, J., A. Saintot, M. Heeremans, and M. Scheck-Wenderoth (2009), Paleostress field reconstruction in the Oslo region, Mar. Pet. Geol., 27, 682–708, doi:10.1016/j.marpetgeo.2009.08.010.
+Software: http://www.kueps.kyoto-u.ac.jp/~web-bs/tsg/software/mim/; http://www.sciencedirect.com/science/article/pii/0098300493900354
